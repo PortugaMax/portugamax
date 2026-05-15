@@ -33,6 +33,3 @@ Atualmente aprofundo meus conhecimentos em arquitetura de software, escalabilida
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maxwell-portugal-218b50162)
 ## Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,github,html,css,postgres,figma" />
-</p>
