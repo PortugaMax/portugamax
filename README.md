@@ -1,4 +1,4 @@
-# Olá, eu sou Maxwell 👋
+S# Olá, eu sou Maxwell 👋
 
 Desenvolvedor Fullstack focado na construção de aplicações web completas, integrando frontend, backend, APIs e banco de dados.
 
@@ -30,4 +30,4 @@ Atualmente aprofundo meus conhecimentos em arquitetura de software, escalabilida
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maxwell-portugal-218b50162)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-portugal-218b50162)
